@@ -60,7 +60,7 @@ export default function Portfolio() {
               </Button>
             </div>
             <div className="flex gap-4 pt-4">
-              <Link href="https://github.com/christopherowens" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/Raddix1985" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="ghost"
                   size="icon"
@@ -70,7 +70,7 @@ export default function Portfolio() {
                   <span className="sr-only">GitHub</span>
                 </Button>
               </Link>
-              <Link href="https://linkedin.com/in/christopherowens" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/christopher-owens-46bb3531/" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="ghost"
                   size="icon"
@@ -156,7 +156,7 @@ export default function Portfolio() {
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Location</div>
-                    <div className="font-medium">United States / Remote</div>
+                    <div className="font-medium">Cape Town, South Africa / on-site/Hybrid/Remote</div>
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Availability</div>
@@ -217,7 +217,7 @@ export default function Portfolio() {
               tags={["Serverless", "API Pipeline", "Event-Driven", "SQL Failover", "Slack/SMTP", "JSON Parsing"]}
               image="/event-pipeline.png"
               demoUrl="https://christopherowens.tech"
-              repoUrl="https://github.com/christopherowens"
+              repoUrl="https://github.com/Raddix1985"
             />
             <ProjectCard
               title="Global Edge-Deployed Frontend Gateway"
@@ -225,7 +225,7 @@ export default function Portfolio() {
               tags={["Next.js", "Edge Network", "CDN Caching", "Serverless Gateway", "API Validation", "Secret Shield"]}
               image="/edge-gateway.png"
               demoUrl="https://christopherowens.tech"
-              repoUrl="https://github.com/christopherowens"
+              repoUrl="https://github.com/Raddix1985"
             />
           </div>
         </div>
@@ -276,7 +276,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-sm text-zinc-500">LinkedIn</div>
-                    <div className="font-medium">linkedin.com/in/christopherowens</div>
+                    <div className="font-medium">linkedin.com/in/christopher-owens-46bb3531/</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -285,7 +285,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-sm text-zinc-500">GitHub</div>
-                    <div className="font-medium">github.com/christopherowens</div>
+                    <div className="font-medium">github.com/Raddix1985</div>
                   </div>
                 </div>
               </div>
@@ -317,7 +317,7 @@ export default function Portfolio() {
             </p>
           </div>
           <div className="flex gap-4">
-            <Link href="https://github.com/christopherowens" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/Raddix1985" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="ghost"
                 size="icon"
@@ -327,7 +327,7 @@ export default function Portfolio() {
                 <span className="sr-only">GitHub</span>
               </Button>
             </Link>
-            <Link href="https://linkedin.com/in/christopherowens" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.linkedin.com/in/christopher-owens-46bb3531/" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="ghost"
                 size="icon"
