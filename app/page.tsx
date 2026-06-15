@@ -156,7 +156,7 @@ export default function Portfolio() {
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Location</div>
-                    <div className="font-medium">Cape Town, South Africa / on-site/Hybrid/Remote</div>
+                    <div className="font-medium">Cape Town, South Africa / Hybrid/Remote</div>
                   </div>
                   <div className="space-y-1">
                     <div className="text-sm text-zinc-500">Availability</div>
